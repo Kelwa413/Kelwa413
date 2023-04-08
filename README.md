@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Practice with learning new python libraries</b>
+  - [Praciting learning Python libraries](https://github.com/Kelwa413/Space-Shooters-.git)
 
 
 <h2> :book: School Projects</h2>
