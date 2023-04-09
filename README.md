@@ -4,7 +4,8 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Practice with learning new python libraries</b>
-  - [Practice learning Python libraries](https://github.com/Kelwa413/Space-Shooters-.git)
+  - [Pygame](https://github.com/Kelwa413/Space-Shooters-.git)
+  - [Pandas]
 
 
 <h2> :book: School Projects</h2>
