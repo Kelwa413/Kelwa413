@@ -5,7 +5,6 @@
 
 - <b>Practice with learning new python libraries</b>
   - [Pygame](https://github.com/Kelwa413/Space-Shooters-.git)
-  - [Pandas]
 
 
 <h2> :book: School Projects</h2>
