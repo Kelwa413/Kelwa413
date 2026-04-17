@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Khalaf 👋</h1>
-<h3 align="center">Third-year Computer Information Systems student at Mount Royal University</h3>
+<h1 align="center">Khalaf Elwadya</h1>
+<h3 align="center">Full-Stack Developer · Build it right. Ship it fast.</h3>
 
 <p align="center">
   <a href="https://github.com/Kelwa413">
@@ -13,28 +13,42 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 Personal Projects
-
-- **Pygame Space Shooter**
-  - [View Repository](https://github.com/Kelwa413/Space-Shooters-.git) - Developing a space shooter game to learn Pygame.
-
-- **MatchMate - Soccer Field Booking App**
-  - [View Repository](https://github.com/Kelwa413/MatchMate) - Building a booking system for soccer fields.
-
-- **GardenGlow - Landscaping Company Website**
-  - [View Repository](https://github.com/GardenGlow/GardenGlow.github.io) - Created a website using GitHub Pages for a local landscaping company.
-
-- **Automated Room Booking**
-  - [View Repository](https://github.com/Kelwa413/GroupRoom) - A script using Selenium for booking school library rooms.
-
-- **JavaScript and React Experiments**
-  - [Button Test](https://github.com/Kelwa413/ButtonTest) - Learning JavaScript with interactive buttons.
-  - [React Practice](https://github.com/Kelwa413/ReactPractice) - Small React projects to understand fundamentals.
-
-- **Unity Learning Projects**
-  - [Flappy Pigeon](https://github.com/Kelwa413/FlappyPigeon) - Flappy Bird-style game to learn Unity.
-  - [XRScene](https://github.com/Kelwa413/XRScene) - Exploring VR with Unity XR toolkit.
+<p align="center"><i>Products across mobile, web, and cloud. From blank canvas to production.</i></p>
 
 ---
+
+### Shipped Work
+
+**Infinimatch** · Mobile App
+AI powered movie discovery that learns what you love. Native mobile app where every swipe trains a recommendation model. Built from first prototype to TestFlight beta.
+`Angular` `Ionic` `TypeScript` `AI/ML`
+
+**[Red Mesa](https://redmesa.dev/)** · AI Consulting
+Custom machine learning solutions built for specific data, infrastructure, and workflows. Deployable on prem or cloud.
+`Python` `TensorFlow`
+
+**[DialDynamics](https://dialdynamics.ca/)** · SaaS Platform
+AI cold call training with real time feedback. Sales simulation platform where reps practice against AI before making real calls.
+`Next.js` `React` `Node.js`
+
+**CSI Dry Eye** · Clinical SaaS
+Full stack clinical platform for ophthalmology practices. Patient assessments, treatment planning, invoicing, and export workflows.
+`Angular` `TypeScript` `AWS Lambda` `DynamoDB`
+
+---
+
+### Public Code
+
+**[Planty](https://github.com/Kelwa413/lego-habit)** · Hackathon Winner (1st Place, MRU Hacks)
+A LEGO plant that responds to your habits. Thrives when you're consistent, droops when you fall off. Built in 24 hours against 100+ teams with zero prior hardware experience.
+`Arduino` `Python` `Raspberry Pi`
+
+---
+
+### How I Work
+
+Constraints before features. Decisions before code. Then iterate until it holds.
+
+---
+
+<p align="center">Open to interesting problems and product focused teams.</p>
